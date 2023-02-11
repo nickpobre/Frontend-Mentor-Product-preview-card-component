@@ -15,7 +15,7 @@ The challenge was to build a product preview card component that allows users to
 
 ## Links
 
-- Live Site URL: 
+- Live Site URL: https://product-card-frontendmentor.netlify.app/
 
 ## My process
 
